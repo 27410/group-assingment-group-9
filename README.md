@@ -30,4 +30,4 @@ This is a type 2 project, Selection and assessment of existing GSM. Code is comp
 
 requirements.txt contains packages that may be required to run the code.
 
-There is a folder containing extra files, old files and working copies which are no longer supported.
+There is a folder named "Extra files" containing extra files, old files and working copies which are no longer supported.
